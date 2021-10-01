@@ -1,0 +1,3 @@
+[submodule "inner-project"]
+	path = inner-project
+	url = ./inner-project
